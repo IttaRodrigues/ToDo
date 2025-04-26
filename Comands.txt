@@ -1,0 +1,13 @@
+git config --global user.name IttaRodrigues
+git config --global user.email itamararodriguesdeoliveira@gmail.com
+
+Criar um projeto Angular
+ng new todo
+
+Executar o projeto
+ng serve -o
+
+Criar um componente
+ng g c todo-list = ( explicacao, g de generate e c de componente)
+
+npm i bootstrap
