@@ -6,8 +6,11 @@ ng new todo
 
 Executar o projeto
 ng serve -o
+so dar enter
 
 Criar um componente
 ng g c todo-list = ( explicacao, g de generate e c de componente)
 
 npm i bootstrap
+
+
